@@ -1,4 +1,4 @@
-# Halifax Explostion 1917 #
+# Halifax Explosion 1917 #
 
 # hour 1 #
 
