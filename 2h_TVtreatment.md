@@ -1,8 +1,8 @@
-* Halifax Explostion 1917 *
+# Halifax Explostion 1917 #
 
-* hour 1 * 
+# hour 1 #
 
-**act 1 – introduction**
+## act 1 – introduction ##
 
 A large ship sits anchored as the sun sets over a forested island in the
 background. Zoom in to a well-lit window on the ship's bridge. Inside,
@@ -40,7 +40,7 @@ explains that this is where our story begins one hundred years ago.
 
 Close with a brief montage of large chemical plants.
 
-**act 2 – american chemicals and uk shipbuilding**
+## act 2 – american chemicals and uk shipbuilding ##
 
 Continue montage of large chemical plants along the water in New Jersey,
 across the water from Manhattan. Dow Chemical facilities in Midland MI
@@ -95,7 +95,7 @@ ships built in the early 20^th^ century.
 We return to 1917 to see captain Le Médec on the bridge of *Mont-Blanc*
 with the stevedores behind.
 
-** act 3 – loading the bomb **
+## act 3 – loading the bomb ##
 
 The ship is now a hundred metres from the coast, and a rural landscape
 in the background indicates that we're not in Manhattan anymore.
@@ -153,7 +153,7 @@ showing us their relative energies and effects.
 Back in 1917, the ship is still being loaded. Le Médec steps into a dim
 office of the British Admiralty to receive his sailing orders.
 
-**act 4 – convoy**
+## act 4 – convoy ##
 
 Le Médec sits down at a desk. Commander Coates, head of the convoy
 office of the British Navy in New York, asks some curt questions of the
@@ -221,7 +221,7 @@ departure. Light falls. The windlasses bring anchors up, and
 *Mont-Blanc* steams alone out of the Port of New York into the dark
 December Atlantic. Only the harbour lights indicate the way.
 
-**act 5 – across the gulf of maine**
+## act 5 – across the gulf of maine ##
 
 Over the shoulder of Le Médec, darkness envelops the ship as it heads
 out the Ambrose Channel, past the sandy bars of Coney Island NY, Sandy
@@ -297,9 +297,9 @@ crew sit in the saloon, speaking to each other in French. It is tense.
 Le Médec sits sternly at the head of the table. Mackey sits with the
 rest, but is clearly alone. He does not understand or speak French.
 
-* hour 2 * 
+# hour 2 #
 
-** act 6 – into the harbour **
+## act 6 – into the harbour ##
 
 Helicopter view of Halifax harbour today. Shaped like an hourglass, the
 city sits on the western shore of the narrowest portion of the harbour.
